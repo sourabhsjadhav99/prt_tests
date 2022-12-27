@@ -1,2 +1,2 @@
-# prt_tests
+# prt-tests
 prt tests
